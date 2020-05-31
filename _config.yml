@@ -38,7 +38,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: mmistakes # site's Twitter username
+  username:  # site's Twitter username
 
 # Liquid
 liquid:
@@ -105,10 +105,10 @@ defaults:
 
 # Site Author
 author:
-  name: Michael Rose
+  name: Hyun Woo Lim
   picture: /images/michael-rose-photo.jpg
   email:
-  twitter: mmistakes
+  twitter: 
   links:
   #  - title: Twitter
   #    url: https://twitter.com/mmistakes
