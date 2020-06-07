@@ -9,5 +9,5 @@ last_modified_at: 2020-06-07
 
 This post tests YouTube video embeds.
 
-{% include responsive-embed url="https://www.youtube.com/watch?v=hmLBSCiEoas;" %}
+{% include responsive-embed url="https://www.youtube.com/watch?v=okpwnSwo_LA;" %}
 
