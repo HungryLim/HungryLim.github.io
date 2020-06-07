@@ -109,16 +109,16 @@ author:
   picture: /images/michael-rose-photo.jpg
   email:
   twitter: 
-  links:
+  links: false
   #  - title: Twitter
   #    url: https://twitter.com/mmistakes
   #    icon: fab fa-twitter-square
   #  - title: Instagram
   #    url: https://instagram.com/mmistakes
   #    icon: fab fa-instagram
-    - title: GitHub
-      url: https://github.com/HungryLim
-      icon: fab fa-github-square
+  #  - title: GitHub
+  #    url: https://github.com/HungryLim
+  #    icon: fab fa-github-square
 
 # Footer Links
 footer_links:
