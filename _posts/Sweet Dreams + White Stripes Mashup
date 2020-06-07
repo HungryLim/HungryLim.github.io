@@ -1,0 +1,12 @@
+---
+title: "Post: Video (YouTube)"
+categories:
+  - Music
+tags:
+  - Scary Pockets
+---
+
+This post tests YouTube video embeds.
+
+{% include responsive-embed url="https://www.youtube.com/watch?v=hmLBSCiEoas&list=RDzein2Bq8ymI&index=5;" %}
+
